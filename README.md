@@ -7,7 +7,7 @@
 4. Execute your file
 5. Access your web server with VM public IP
 6. Connect your application with the database
-
+7. Watch my complete video of this project for troubleshooting
 ---
 
 ## Create a virtual machine (EC2)
@@ -96,7 +96,8 @@ Here is your final Application
 ![Here is your final Application](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/63tputkmgkfspj0dvem6.PNG)
 
 ---
-I have already posted a video of this project on my channel you can watch my video for complete details.
+## 7. Watch my complete video of this project for troubleshooting 
+I have already posted a video of this project on my channel If you face any issues and want to troubleshoot watch my complete video.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCpvi1X8jns/0.jpg)](https://www.youtube.com/watch?v=FCpvi1X8jns)
 
