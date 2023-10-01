@@ -14,7 +14,8 @@
 
 I have already made a complete video on how to make a virtual machine, you can use this link to watch the video on my channel.
 
-[![Dockerized-Drupal-and-PostgreSQL](https://img.youtube.com/vi/i42CeeWTDDY&list=PLkTg0bV2tAFcShkK9YXj4Rq2hTYkrkyZs&index=10&t=20s)](https://www.youtube.com/watch?v=i42CeeWTDDY&list=PLkTg0bV2tAFcShkK9YXj4Rq2hTYkrkyZs&index=10&t=20s)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i42CeeWTDDY/0.jpg)](https://www.youtube.com/watch?v=i42CeeWTDDY)
+
 ---
 
 ## 2. Install docker & docker-compose
