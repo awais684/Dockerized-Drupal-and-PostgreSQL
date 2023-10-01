@@ -97,5 +97,9 @@ Here is your final Application
 
 ---
 I have already posted a video of this project on my channel you can watch my video for complete details.
-{% embed https://youtu.be/FCpvi1X8jns %}
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FCpvi1X8jns/0.jpg)](https://www.youtube.com/watch?v=FCpvi1X8jns)
+
+
+
 
